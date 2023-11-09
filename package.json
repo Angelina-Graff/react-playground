@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/r0ulito/react-playground/issues"
   },
-  "homepage": "https://github.com/r0ulito/react-playground#readme"
+  "homepage": "https://github.com/r0ulito/react-playground#readme",
+  "dependencies": {
+    "@babel/standalone": "^7.23.3"
+  }
 }
